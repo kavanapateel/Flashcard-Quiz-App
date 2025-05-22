@@ -1,4 +1,4 @@
-# Flashcard Quiz App
+#  📚 Flashcard Quiz App
 
 A modern, interactive flashcard quiz application built with React and Vite. This application allows users to create, manage, and study flashcards in an engaging way.
 
